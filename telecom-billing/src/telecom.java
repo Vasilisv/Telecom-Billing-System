@@ -1,5 +1,5 @@
 //Name- Vishal Arora
-public class assignment2 {
+public class telecom {
 	
 	public static void main(String args[]) {
 		System.out.println("Welcome to the Vishal Telecom Company Billing System");
